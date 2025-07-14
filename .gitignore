@@ -1,3 +1,5 @@
 # Omitir archivos 
 generate_template.py
+compress.sh
+view_zip_tree.sh
 cookiecutter-rag-template
