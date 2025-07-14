@@ -1,0 +1,4 @@
+llm:
+  provider: {{ cookiecutter.llm_provider }}
+retriever:
+  type: {{ cookiecutter.vector_store }}

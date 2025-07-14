@@ -1,0 +1,7 @@
+faiss-cpu
+openinference
+opentelemetry-sdk
+opentelemetry-exporter-otlp
+openinference-instrumentation
+openinference-instrumentation-langchain
+opentelemetry-exporter-prometheus

@@ -1,0 +1,8 @@
+{
+  "project_name": "RAG Observability Project",
+  "project_slug": "rag_observability",
+  "author_name": "Tu Nombre",
+  "description": "Plantilla modular de RAG con OpenTelemetry y OpenInference",
+  "llm_provider": "openai",
+  "vector_store": "faiss"
+}
